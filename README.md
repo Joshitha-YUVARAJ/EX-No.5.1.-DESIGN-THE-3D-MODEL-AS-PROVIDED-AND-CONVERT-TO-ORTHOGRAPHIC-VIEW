@@ -1,5 +1,7 @@
 # EX No.5.1.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
-## DATE:
+## DATE:09:05:2024
+## NAME:YUVARAJ JOSHIITHA
+## REGISTER NUMBER:212223240189
 
 ## AIM: 
 To create orthographic view of given 3D model
@@ -36,6 +38,8 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
+![image](https://github.com/Joshitha-YUVARAJ/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/145742770/d7c0f6f2-2ff6-4113-8af8-48b682638052)
+
 
 
 ## RESULT:
